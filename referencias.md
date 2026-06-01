@@ -17,8 +17,11 @@ https://docs.python.org/3/reference/expressions.html
 Python Functions
 https://docs.python.org/3/tutorial/controlflow.html#defining-functions
 
-Python Control Flow
-https://docs.python.org/3/tutorial/controlflow.html
+Python Data Structures
+https://docs.python.org/3/tutorial/datastructures.html
+
+Python Sorting HOWTO
+https://docs.python.org/3/howto/sorting.html
 
 ---
 
@@ -34,31 +37,16 @@ https://docs.oracle.com/javase/tutorial/java/nutsandbolts/operators.html
 Java Control Flow Statements
 https://docs.oracle.com/javase/tutorial/java/nutsandbolts/flow.html
 
-Java Loops
-https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html
-
-Java Methods
-https://docs.oracle.com/javase/tutorial/java/javaOO/methods.html
+Java Arrays
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html
 
 ---
 
 Microsoft Learn - C#
 https://learn.microsoft.com/
 
-C# Value Types
-https://learn.microsoft.com/dotnet/csharp/language-reference/builtin-types/value-types
-
-C# Operators
-https://learn.microsoft.com/dotnet/csharp/language-reference/operators/
-
-C# Selection Statements
-https://learn.microsoft.com/dotnet/csharp/language-reference/statements/selection-statements
-
-C# Iteration Statements
-https://learn.microsoft.com/dotnet/csharp/language-reference/statements/iteration-statements
-
-C# Methods
-https://learn.microsoft.com/dotnet/csharp/programming-guide/classes-and-structs/methods
+C# Language Reference
+https://learn.microsoft.com/dotnet/csharp/
 
 ---
 
@@ -73,11 +61,35 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
 JavaScript Operators
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators
 
-JavaScript Conditionals
-https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Conditionals
-
 JavaScript Loops and Iteration
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
+
+---
+
+## Estruturas de Dados e Algoritmos
+
+GeeksforGeeks
+https://www.geeksforgeeks.org/
+
+Data Structures
+https://www.geeksforgeeks.org/data-structures/
+
+Binary Search
+https://www.geeksforgeeks.org/binary-search/
+
+Recursion
+https://www.geeksforgeeks.org/recursion/
+
+Sorting Algorithms
+https://www.geeksforgeeks.org/sorting-algorithms/
+
+---
+
+NumPy Documentation
+https://numpy.org/doc/
+
+TensorFlow Documentation
+https://www.tensorflow.org/guide
 
 ---
 
@@ -98,9 +110,6 @@ https://realpython.com/
 W3Schools
 https://www.w3schools.com/
 
-GeeksforGeeks
-https://www.geeksforgeeks.org/
-
 ---
 
 ## Ferramentas de Lógica
@@ -110,6 +119,19 @@ https://visualg3.com.br/
 
 Portugol Studio
 https://portugolstudio.cubos.io/
+
+---
+
+## Ferramentas Utilizadas por Programadores
+
+Git
+https://git-scm.com/
+
+GitHub
+https://github.com/
+
+VS Code
+https://code.visualstudio.com/
 
 ---
 
@@ -130,6 +152,9 @@ https://www.youtube.com/
 Netflix
 https://www.netflix.com/
 
+TensorFlow
+https://www.tensorflow.org/
+
 ---
 
 ## Livros Recomendados
@@ -141,11 +166,16 @@ Clean Architecture
 Autor: Robert C. Martin
 
 Introduction to Algorithms (CLRS)
-Autores: Thomas H. Cormen, Charles E. Leiserson,
-Ronald L. Rivest e Clifford Stein
+Autores: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest e Clifford Stein
+
+Algorithms
+Autor: Robert Sedgewick
 
 Think Python
 Autor: Allen B. Downey
+
+Data Structures and Algorithms in Python
+Autores: Michael T. Goodrich, Roberto Tamassia e Michael H. Goldwasser
 
 Computer Systems: A Programmer's Perspective
 Autores: Randal E. Bryant e David R. O'Hallaron
@@ -155,4 +185,7 @@ Autores: Randal E. Bryant e David R. O'Hallaron
 ## Observação
 
 Todas as referências foram utilizadas para embasar os conceitos apresentados no ebook.
+
 As documentações oficiais foram priorizadas sempre que possível por serem as fontes mais confiáveis e atualizadas.
+
+As referências bibliográficas foram selecionadas por serem amplamente reconhecidas na área de Ciência da Computação, Estruturas de Dados, Algoritmos e Engenharia de Software.
