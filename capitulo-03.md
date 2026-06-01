@@ -846,26 +846,11 @@ Minutos
 3. Converter metros para centímetros.
 4. Calcular área de um círculo.
 5. Calcular salário mensal.
-
----
-
-## Nível Intermediário
-
 6. Calcular média de 4 notas.
 7. Verificar aprovação.
 8. Calcular IMC.
 9. Calcular desconto.
 10. Calcular comissão de vendas.
-
----
-
-## Nível Avançado
-
-11. Sistema de caixa eletrônico.
-12. Sistema de biblioteca.
-13. Sistema de estacionamento.
-14. Sistema de hotel.
-15. Sistema de estoque.
 
 ---
 
