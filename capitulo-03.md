@@ -837,9 +837,7 @@ Minutos
 
 ---
 
-# Exercícios Propostos
-
-## Nível Básico
+# Exercícios
 
 1. Calcular perímetro de um quadrado.
 2. Calcular idade.
