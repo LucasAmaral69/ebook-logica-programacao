@@ -890,26 +890,11 @@ Algoritmo:
 3. Calcular perímetro de um retângulo.
 4. Converter horas em minutos.
 5. Converter Celsius para Fahrenheit.
-
----
-
-## Nível Intermediário
-
 6. Calcular desconto.
 7. Calcular comissão.
 8. Calcular IMC.
 9. Calcular média de 4 notas.
 10. Calcular consumo de combustível.
-
----
-
-## Nível Avançado
-
-11. Sistema de caixa eletrônico.
-12. Sistema de biblioteca.
-13. Sistema de estoque.
-14. Sistema de hotel.
-15. Sistema de estacionamento.
 
 ---
 
