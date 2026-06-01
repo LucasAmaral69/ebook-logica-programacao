@@ -879,11 +879,7 @@ Algoritmo:
 
 ---
 
-# Exercícios Propostos
-
----
-
-## Nível Básico
+# Exercícios 
 
 1. Calcular idade.
 2. Calcular área de um quadrado.
