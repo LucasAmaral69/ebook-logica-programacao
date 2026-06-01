@@ -761,7 +761,6 @@ FIM
 
 # Exercícios
 
-## Nível Básico
 
 1. Fluxograma para somar dois números.
 2. Fluxograma para calcular média.
