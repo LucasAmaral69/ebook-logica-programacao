@@ -119,36 +119,6 @@ Todo o conteúdo foi elaborado para servir como material de estudo, consulta e a
 
 ---
 
-## Estrutura do Repositório
-
-```text
-ebook-logica-programacao/
-
-├── README.md
-├── LICENSE.md
-├── CONTRIBUTING.md
-├── ROADMAP.md
-├── AUTHOR.md
-│
-├── ebook/
-│   ├── capitulo-01.md
-│   ├── capitulo-02.md
-│   ├── capitulo-03.md
-│   └── ...
-│
-├── referencias/
-│   └── referencias.md
-│
-├── imagens/
-│
-└── exemplos/
-    ├── python/
-    ├── java/
-    └── csharp/
-```
-
----
-
 ## Público-Alvo
 
 Este material foi desenvolvido para:
